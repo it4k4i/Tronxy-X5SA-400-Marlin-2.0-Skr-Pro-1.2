@@ -1,6 +1,4 @@
-# Tronxy-X5SA-400-Marlin-2.0-Skr-Pro-1.2
-Tronxy-X5SA-400-Marlin-2.0 Update, Skr Pro 1.2, TMC2209, BL-Touch, Dual Z
-
+!Not Tested!
 Tronxy X5SA 400 Version
 
 Board: SKR Pro 1.2
@@ -15,7 +13,6 @@ Autolevel: BILINEAR
 Autolevel Sensor: BL-Touch
 
 Use at your own Risk!
-#Not Tested
 
 Absolutely testing:
 
